@@ -19,7 +19,9 @@ and open the template in the editor.
             public function setColor(){
                 return 1;
             }
-
+            public function useName(){
+                return 2;
+            }
             }
         
         ?>
