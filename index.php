@@ -16,7 +16,12 @@ and open the template in the editor.
             public function Bar() {
                 //Programa aquí
             }
-        }
+            public function setColor(){
+                return 1;
+            }
+
+            }
+        
         ?>
     </body>
 </html>
