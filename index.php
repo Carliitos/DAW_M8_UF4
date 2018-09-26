@@ -22,6 +22,9 @@ and open the template in the editor.
             public function useName(){
                 return 2;
             }
+            public function doSomething(){
+                return "Hola";
+            }
             }
         
         ?>
