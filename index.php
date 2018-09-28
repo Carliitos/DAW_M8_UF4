@@ -25,6 +25,9 @@ and open the template in the editor.
             public function doSomething(){
                 return "Hola";
             }
+            public function fantasma(){
+                return $e;
+            }
             }
         
         ?>
