@@ -26,6 +26,7 @@ and open the template in the editor.
                 return "Hola";
             }
             public function fantasma(){
+                $e = 1+1;
                 return $e;
             }
             }
